@@ -1,5 +1,6 @@
-### Hi there 👋
+### Всем привет, меня зовут Василий👋
 
+![](https://komarev.com/ghpvc/?username=Ignasiya)
 <!--
 **Ignasiya/Ignasiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
