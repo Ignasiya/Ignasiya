@@ -4,10 +4,10 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ignasiya&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ignasiya&theme=solarized_dark)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ignasiya&theme=solarized_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ignasiya&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ignasiya&theme=solarized_dark)  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ignasiya&theme=solarized_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ignasiya&theme=solarized_dark)
 
 Обо мне :
