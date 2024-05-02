@@ -27,3 +27,5 @@
 
 * "Структура данных и алгоритым" Ахо, Хопкрофт, Ульман;
 * "Паттерны и проектирование" O'Reilly
+* "PHP, MysQL, JavaScript, CSS и HTML" O'Reilly
+* "Laravel" O'Reilly
