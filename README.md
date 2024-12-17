@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Ignasiya)
 
+[![codewars](https://www.codewars.com/users/Ignasiy93/badges/large)](https://www.codewars.com/users/Ignasiy93)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ignasiya&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ignasiya&theme=solarized_dark) 
