@@ -32,8 +32,8 @@
 
 ### 📊 **Статистика профиля:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ignasiya&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ignasiya&layout=compact&theme=radical)  
 
 ---
 
