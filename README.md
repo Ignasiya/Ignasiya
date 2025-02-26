@@ -9,6 +9,7 @@
 - 💡 Разрабатываю современные веб-приложения
 - 🔥 Работаю с **React, Vue, Next.js, Laravel**
 - 🛠 Использую **TypeScript, Redux, RTK-Query, Sass, Docker, Webpack, Vite**
+- 📂 Использую **Feature-Sliced Design (FSD)** для организации кода
 - 🐧 Люблю **Linux** и автоматизацию процессов
 
 ---
