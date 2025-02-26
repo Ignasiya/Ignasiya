@@ -4,22 +4,43 @@
 
 [![](https://www.codewars.com/users/@Ignasiy93/badges/large)](https://www.codewars.com/users/@Ignasiy93)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ignasiya&theme=solarized_dark)
+🚀 **Frontend Developer** | 🎨 Люблю красивый UI | 🖥 Open Source Contributor  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ignasiya&theme=solarized_dark) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ignasiya&theme=solarized_dark)
+- 💡 Разрабатываю современные веб-приложения
+- 🔥 Работаю с **React, Vue, Next.js, Laravel**
+- 🛠 Использую **TypeScript, Redux, RTK-Query, Sass, Docker, Webpack, Vite**
+- 🐧 Люблю **Linux** и автоматизацию процессов
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ignasiya&theme=solarized_dark) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ignasiya&theme=solarized_dark)
+---
 
-Обо мне :
+### 🚀 **Технологии и инструменты:**  
 
-🔭 У меня высшее экономическое образование (финансы и кредит), технический английский.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK--Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-👯 Рад любому сотрудничеству с ИТ-компанией, хочу работать в дружном коллективе. Специализируюся на fronted, знаю технологии: React.js, Vue,js, Redux, Mobx, RTK-query, TypeScript и поверхностно др.
+---
 
-📫 Как найти меня: https://t.me/Ignasiy93
+### 📊 **Статистика профиля:**
 
-🌱 Хобби: велопутешествия, отдых на природе. 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB&layout=compact&theme=radical)  
 
-👩‍💻 Читаю книги (в основном по разработке).
+---
+
+### 📫 **Связаться со мной:**
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ignasyia)
+
+---
+
+⭐️ _Развиваюсь и работаю над интересными проектами._
